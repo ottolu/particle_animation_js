@@ -1,0 +1,16 @@
+.block{
+	position: relative;
+	width:1300px;
+	height: 560px;
+	overflow: hidden;
+	background: #fae3d7;
+}
+
+.block div{
+	width: 10px;
+	height: 10px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
