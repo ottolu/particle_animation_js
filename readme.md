@@ -1,8 +1,8 @@
-A simple particle animation with A basical editor
+A Simple Particle Animation with A Basical Editor
 =
 
 copyleft Nomi(Lewei Lu) [llw33333@gmail.com]
-licensed under the GPL licenses.
+licensed under the GPL Licenses.
 
 ##Files:
 	`index.html`                      Show the particle animation
